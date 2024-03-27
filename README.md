@@ -1,6 +1,6 @@
 # Migration Data Analysis
 
-This project involves a comprehensive analysis of internal migration statistics for the year 2022 provided by the Turkish Statistical Institute (TÜİK). The data was downloaded from the official TÜİK website.
+This project involves a comprehensive analysis of internal migration statistics for the years between 2016 and 2022 provided by the Turkish Statistical Institute (TÜİK). The data was downloaded from the official TÜİK website.
 
 ## Data Preparation
 
@@ -15,3 +15,4 @@ The report analyzes various aspects of the migration data through visualizations
 - The final page presents a heat map of the nationalities of incoming migrants on a world map. This visualization helps to identify regions with higher migration rates.
 
 This project aims to help us better understand migration trends.
+You can access the full report via the provided link https://lookerstudio.google.com/reporting/22b2a554-cc0e-4981-a4ab-3b2e8adddbcf or download it as a PDF file attached in the repository.
